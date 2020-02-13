@@ -1,1 +1,1 @@
-(defun celcius-to-farenheit (c)(-(*(+ c 40)1.8) 40))
+(defun celc (c)(-(*(+ c 40)1.8) 40))
